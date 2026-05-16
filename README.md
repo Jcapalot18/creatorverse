@@ -31,7 +31,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-`[Add your GIF/video here]`
+`https://youtu.be/HYY7NS1nO14`
 
 ## Notes
 
